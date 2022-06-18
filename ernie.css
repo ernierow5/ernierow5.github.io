@@ -1,8 +1,7 @@
 body {
     width: 100%;
     margin: 0;
-    background-color: cornsilk;
-    display: block;
+    background-color: #002868;
 }
 
 #header {
@@ -14,12 +13,12 @@ body {
     position: fixed;
     top: 0;
     display: flex;
+    border-bottom: 8px groove red;
 }
 
 #header h1 {
     padding-left: 10px;
-    color: cornsilk;
-    justify-content: center;
+    color: white;
 }
 
 #pages {
@@ -46,13 +45,12 @@ body {
     background-color: black;
     width: auto;
     height: inherit;
-    padding-right: 9px;
+    padding-right: 10px;
     align-items: center;
     display: flex;
 }
 
 #header #logo h1 {
-    color: white;
     letter-spacing: 2px;
 }
 
@@ -64,20 +62,30 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
 }
 
 .blue_box {
     background-color: #002868;
-    height: 10px;
-    width: 10px;
+    height: 33%;
+    width: 33%;
+}
+
+.blue_box1 {
+    background-color: #002868;
+    height: 34%;
+    width: 34%;
+}
+
+.white_box1 {
+    background-color: white;
+    height: 34%;
+    width: 34%;
 }
 
 .white_box {
     background-color: white;
-    height: 10px;
-    width: 10px;
+    height: 33%;
+    width: 33%;
 }
 
 a {
@@ -88,4 +96,53 @@ a {
 h3 {
     color: black;
     margin-top: 50px;
+}
+
+#body {
+    width: 80%;
+    margin: 0 10%;
+    background-color: white;
+    height: auto;
+    justify-content: center;
+    margin-top: 58px;
+}
+
+.logoimg {
+    width: 70%;
+    height: auto;
+    margin: 20px 15%;
+}
+
+#body h1 {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+
+#body h2 {
+    width: 70%;
+    margin: 0 15%;
+    text-align: center;
+}
+
+.pic1 {
+    width: 40%;
+    object-fit: contain;
+    height: max-content;
+    margin-left: 10%;
+    margin: 0;
+}
+
+#imgthing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+#imgthing p {
+    margin: 30px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
 }
