@@ -1,17 +1,15 @@
 <xml version="1.0" encoding="utf-8">
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="erniefor.us/podcast.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="erniefor.us/podcast" rel="self" type="application/rss+xml" />
     <title>Ernie For Pres!</title>
-    <link>erniefor.us</link>
-    <description>Something Describing Your Site</description>
+    <link>erniefor.us/podcast</link>
+    <description>This is a podcast</description>
     <language>en-us</language>    
     <image>
-      <title>Picture Title</title>
-      <link>erniefor.us</link>
-      <url>http://yoursite.com/yourpicture.gif</url>
-      <width>70</width>
-      <height>55</height>
+      <title>Podcast logo</title>
+      <link>erniefor.us/podcast</link>
+      <url>erniefor.us/logo.png</url>
     </image>
     <item>
       <title>Web Page 1 Title</title>
