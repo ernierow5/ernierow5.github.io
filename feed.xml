@@ -7,15 +7,16 @@
     <link>erniefor.us/podcast</link>
     <description>Podcast about bringing power to the people through copious amounts of caffeine.</description>
     <language>en-us</language>
-    <pubDate>Sat, 23 Jul 2022</pubDate>
+    <pubDate>Sat, 23 Jul 2022 20:00:00 GMT</pubDate>
     <webMaster>ernierow5@gmail.com</webMaster>
     <category>Podcast</category>
     <itunes:author>Ernie Rowoldt</itunes:author>
+    <itunes:type>episodic</itunes:type>
     <itunes:image href="https://erniefor.us/podcast_logo.png"/>
     <image>
       <title>Podcast logo</title>
-      <link>erniefor.us/podcast</link>
-      <url>erniefor.us/podcast_logo.png</url>
+      <link>https://erniefor.us/podcast</link>
+      <url>https://erniefor.us/podcast_logo.png</url>
     </image>
     <item>
       <title>Episode 1</title>
@@ -24,6 +25,7 @@
       <description>Episode 1 of the podcast</description>
       <guid>https://www.erniefor.us/Ep1.mp3</guid>
       <author>ernierow5@gmail.com</author>
+      <pubDate>Sat, 23 Jul 2022 23:00:00 GMT</pubdate>
     </item>
   </channel>
 </rss>
