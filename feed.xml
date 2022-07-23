@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Power Pod</title>
     <link>erniefor.us/podcast</link>
@@ -8,7 +10,8 @@
     <pubDate>Sat, 23 Jul 2022</pubDate>
     <webMaster>ernierow5@gmail.com</webMaster>
     <category>Podcast</category>
-    <managingEditor>ernierow5@gmail.com</managingEditor>
+    <itunes:author>Ernie Rowoldt</itunes:author>
+    <itunes:image href="https://erniefor.us/podcast_logo.png"/>
     <image>
       <title>Podcast logo</title>
       <link>erniefor.us/podcast</link>
