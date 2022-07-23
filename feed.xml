@@ -13,10 +13,14 @@
       <itunes:name>Ernie Rowoldt</itunes:name>
       <itunes:email>ernierow5@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:explicit>true</itunes:explicit>
     <category>Podcast</category>
     <itunes:author>Ernie Rowoldt</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://erniefor.us/podcast_logo.png"/>
+    <itunes:category text="Reviews">
+      <itunes:category text="Energy Drinks"/>
+    </itunes:category>
     <image>
       <title>Podcast logo</title>
       <link>https://erniefor.us/podcast</link>
@@ -24,12 +28,14 @@
     </image>
     <item>
       <title>Episode 1</title>
+      <itunes:duration>60</itunes:duration>
       <link>https://www.erniefor.us/Ep1.mp3</link>
       <enclosure url="https://www.erniefor.us/Ep1.mp3" length="982357" type="audio/mpeg"/>
       <description>Episode 1 of the podcast</description>
       <guid>https://www.erniefor.us/Ep1.mp3</guid>
       <author>ernierow5@gmail.com</author>
       <pubDate>Sat, 23 Jul 2022 23:00:00 GMT</pubDate>
+      <itunes:explicit>true</itunes:explicit>
     </item>
   </channel>
 </rss>
