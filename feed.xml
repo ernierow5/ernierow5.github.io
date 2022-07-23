@@ -9,8 +9,11 @@
     <language>en-us</language>
     <pubDate>Sat, 23 Jul 2022 20:00:00 GMT</pubDate>
     <webMaster>ernierow5@gmail.com</webMaster>
+    <itunes:owner>
+      <itunes:name>Ernie Rowoldt</itunes:name>
+      <itunes:email>ernierow5@gmail.com</itunes:email>
+    </itunes:owner>
     <category>Podcast</category>
-    <email>ernierow5@gmail.com</email>
     <itunes:author>Ernie Rowoldt</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://erniefor.us/podcast_logo.png"/>
