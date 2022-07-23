@@ -1,10 +1,10 @@
-<xml version="1.0" encoding="utf-8">
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
   <channel>
     <atom:link href="erniefor.us/podcast" rel="self" type="application/rss+xml" />
     <title>Ernie-For-Pres!</title>
     <link>erniefor.us/podcast</link>
-    <description>This is a podcast</description>
+    <description>podcast</description>
     <language>en-us</language>    
     <image>
       <title>Podcast logo</title>
@@ -17,20 +17,6 @@
       <link>http://yoursite.com/webpage1.html</link>
       <guid>http://yoursite.com/item001</guid>
       <description>Information about Web Page 1</description>
-    </item>
-    <item>
-      <title>Web Page 2 Title</title>
-      <pubDate>Mon, 6 Sep 2010 12:40:21 GMT</pubDate>
-      <link>http://yoursite.com/webpage2.html</link>
-      <guid>http://yoursite.com/item002</guid>
-      <description>Information about Web Page 2</description>
-    </item>
-    <item>
-      <title>Web Page 3 Title</title>
-      <pubDate>Mon, 6 Sep 2010 12:40:21 GMT</pubDate>
-      <link>http://yoursite.com/webpage3.html</link>
-      <guid>http://yoursite.com/item003</guid>
-      <description>Information about Web Page 3</description>
     </item>
   </channel>
 </rss>
