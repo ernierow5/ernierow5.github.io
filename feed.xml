@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Ernie-For-Pres!</title>
+    <title>Power Pod</title>
     <link>erniefor.us/podcast</link>
-    <description>podcast</description>
+    <description>Podcast about bringing power to the people through copious amounts of caffeine.</description>
     <language>en-us</language>    
     <image>
       <title>Podcast logo</title>
       <link>erniefor.us/podcast</link>
-      <url>erniefor.us/logo.png</url>
+      <url>erniefor.us/podcast_logo.png</url>
     </image>
-    <item>
-      <title>Web Page 1 Title</title>
-      <pubDate>Mon, 6 Sep 2010 12:40:21 GMT</pubDate>
-      <link>http://yoursite.com/webpage1.html</link>
-      <guid>http://yoursite.com/item001</guid>
-      <description>Information about Web Page 1</description>
-    </item>
   </channel>
 </rss>
