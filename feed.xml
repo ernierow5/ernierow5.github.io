@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <atom:link href="erniefor.us/podcast" rel="self" type="application/rss+xml" />
     <title>Ernie-For-Pres!</title>
     <link>erniefor.us/podcast</link>
     <description>podcast</description>
