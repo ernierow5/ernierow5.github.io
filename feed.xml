@@ -3,7 +3,7 @@
      xmlns:spotify="http://www.spotify.com/ns/rss"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Power Pod</title>
+    <title>Caffeinated and Hydrated</title>
     <link>erniefor.us/podcast</link>
     <description>Podcast about bringing power to the people through copious amounts of caffeine.</description>
     <language>en-us</language>
@@ -23,12 +23,10 @@
       <link>https://erniefor.us/podcast</link>
       <url>https://erniefor.us/podcast_logo.png</url>
     </image>
+
     <item>
       <title>Intro</title>
-      <image>
-        <title>Into Pic</title>
-        <url>https://erniefor.us/Intro.png</url>
-      </image>
+      <itunes:image href="https://erniefor.us/Intro.png"/>
       <itunes:duration>244</itunes:duration>
       <link>https://www.erniefor.us/intro.mp3</link>
       <enclosure url="https://www.erniefor.us/Ep1.mp3" length="4105167" type="audio/mpeg"/>
@@ -38,5 +36,6 @@
       <pubDate>Sat, 23 Jul 2022 23:00:00 GMT</pubDate>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   </channel>
 </rss>
