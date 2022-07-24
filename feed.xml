@@ -18,9 +18,6 @@
     <itunes:author>Ernie Rowoldt</itunes:author>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://erniefor.us/podcast_logo.png"/>
-    <itunes:category text="Reviews">
-      <itunes:category text="Energy Drinks"/>
-    </itunes:category>
     <image>
       <title>Podcast logo</title>
       <link>https://erniefor.us/podcast</link>
