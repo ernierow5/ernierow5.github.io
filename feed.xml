@@ -1,41 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:spotify="http://www.spotify.com/ns/rss"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
   <channel>
-    <title>Caffeinated and Hydrated</title>
-    <link>erniefor.us/podcast</link>
-    <description>Podcast about bringing power to the people through copious amounts of caffeine.</description>
-    <language>en-us</language>
-    <pubDate>Sat, 23 Jul 2022 20:00:00 GMT</pubDate>
-    <webMaster>ernierow5@gmail.com</webMaster>
+    <title><![CDATA[Caffeinated]]></title>
+    <link>https://erniefor.us/podcast</link>
+    <description><![CDATA[Ernie and Nicole drink copious amounts of caffeine.]]></description>
+    <lastBuildDate>Tue, 26 Jul 2022 20:04:38 GMT</lastBuildDate>
+    <language>en</language>
+    <copyright><![CDATA[Ernie Rowoldt 2022]]></copyright>
+    <itunes:image href="https://erniefor.us/podcast_logo.png"/>
+    <image>
+      <url>https://erniefor.us/podcast_logo.png</url>
+      <title>Caffeinated</title>
+      <link>https://erniefor.us/podcast</link>
+    </image>
+    <itunes:summary><![CDATA[Ernie and Nicole drink copious amounts of caffeine.]]></itunes:summary>
+    <podcast:locked owner="ernierow5@gmail.com">yes</podcast:locked>
+    <itunes:author>Ernie Rowoldt</itunes:author>
     <itunes:owner>
       <itunes:name>Ernie Rowoldt</itunes:name>
       <itunes:email>ernierow5@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
-    <category>Podcast</category>
-    <itunes:author>Ernie Rowoldt</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://erniefor.us/podcast_logo.png"/>
-    <image>
-      <title>Podcast logo</title>
-      <link>https://erniefor.us/podcast</link>
-      <url>https://erniefor.us/podcast_logo.png</url>
-    </image>
-
+    <itunes:category text="Health &amp; Fitness"/>
+    <itunes:category text="Leisure">
+      <itunes:category text="Hobbies"/>
+    </itunes:category>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
     <item>
-      <title>Intro</title>
+      <title><![CDATA[Intro]]></title>
+      <itunes:title><![CDATA[Intro]]></itunes:title>
+      <itunes:summary><![CDATA[Yo here's an intro]]></itunes:summary>
+      <description><![CDATA[<p>Yo here's an intro</p>]]></description>
+      <link>https://erniefor.us/podcast</link>
+      <enclosure url="http://erniefor.us/intro.mp3" length="4105167" type="audio/mpeg"/>
+      <guid isPermaLink="false">69696969</guid>
       <itunes:image href="https://erniefor.us/Intro.png"/>
       <itunes:duration>244</itunes:duration>
-      <link>https://www.erniefor.us/intro.mp3</link>
-      <enclosure url="https://www.erniefor.us/Ep1.mp3" length="4105167" type="audio/mpeg"/>
-      <description>Introduction episode of the podcast</description>
-      <guid>https://www.erniefor.us/intro.mp3</guid>
-      <author>ernierow5@gmail.com</author>
-      <pubDate>Sat, 23 Jul 2022 23:00:00 GMT</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Wed, 27 Jul 2022 05:43:39 GMT</pubDate>
     </item>
-
   </channel>
 </rss>
